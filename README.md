@@ -4,3 +4,5 @@
 
 Here you will find my personal projects and repositories related to my 
 Void Linux installation on my ThinkPad x1 Carbon (7th gen).
+
+If you have any questions, do not hesitate to contract me through my e-mail.
