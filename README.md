@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Larsen</h1>
 <h3 align="center">A software engineer living in Denmark.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iyyel" alt="iyyel" /> </p>
 
 - 👨‍💻 Visit my site: [https://iyyel.io](https://iyyel.io)
 
