@@ -6,4 +6,4 @@ Here you will find my personal projects and repositories related to my
 Void Linux installation on my ThinkPad x1 Carbon (7th gen). You can find
 more information about me on my [site](https://iyyel.io).
 
-If you have any questions, do not hesitate to contact me through my [e-mail](mailto:i@iyyel.io).
+If you have any questions, do not hesitate to contact me through my [email](mailto:i@iyyel.io).
